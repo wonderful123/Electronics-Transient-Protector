@@ -1,0 +1,225 @@
+{
+  "uuid": "6eda6c4f86483a0fc12831afd85999cb",
+  "path": "Offline/Transient%20Protection-%20produced",
+  "name": "Transient Protection- produced",
+  "content": "",
+  "created_at": "2022-04-04 19:48:26",
+  "updated_at": "2024-02-05 12:03:40",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "dddbebe0d77eec1853910b2c2963d3b2",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "95816f9bd96a41c2b0ae1b2fb35b0c92": 1,
+        "b62ca97a0ab518ca0239a5bc606fb9d6": 1,
+        "d21e3caf4d6f43942da08115ecf3f03d": 1,
+        "5e0e54848ed9c755f7c5fc335da00992": 1,
+        "7975bbfa3a8748ef9dd34905684cd5d1": 1,
+        "c5bd759d5adc4bb7b4f9698a997139f9": 1,
+        "7cae9ab7891e48f11e47d23718393c41": 1,
+        "8f43b4197b3a4a2b92f362691b2e243d": 1,
+        "4378e4346bd947028d8f8f646c4f2973": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1pF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "CL10C010CB8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier Part": "C23969",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL10C010CB8NNNC",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "5e0e54848ed9c755f7c5fc335da00992"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C1206",
+          "C2",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "CL31B104KBCNNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier Part": "C24497",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL31B104KBCNNNC",
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": "d21e3caf4d6f43942da08115ecf3f03d"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C1206",
+          "C3",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "SAMSUNG",
+            "Manufacturer Part": "CL31B105KBHNNNE",
+            "Supplier Part": "C1848",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL31B105KBHNNNE",
+            "puuid": "7bdec8012728462a85919a4d0d033579",
+            "uuid": "b62ca97a0ab518ca0239a5bc606fb9d6"
+          }
+        ],
+        [
+          "47uF",
+          1,
+          "CAP-SMD_BD6.3-L6.6-W6.6-FD",
+          "C4",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C267463",
+            "Manufacturer": "ROQANG",
+            "Manufacturer Part": "RT1V470M0605",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "RT1V470M0605",
+            "puuid": "c0a8d5074cd14a40a7baee3704c47035",
+            "uuid": "7975bbfa3a8748ef9dd34905684cd5d1"
+          }
+        ],
+        [
+          "SMAJ15CA-TP",
+          1,
+          "SMA_L4.4-W2.6-LS5.0-BI",
+          "D1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C129543",
+            "Manufacturer": "Micro Commercial Components",
+            "Manufacturer Part": "SMAJ15CA-TP",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SMAJ15CA-TP",
+            "puuid": "77b418c942ed43c4bbe1d0449d6cb40c",
+            "uuid": "4378e4346bd947028d8f8f646c4f2973"
+          }
+        ],
+        [
+          "BZX84C9V1",
+          1,
+          "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+          "D2",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "SEMTECH",
+            "Manufacturer Part": "BZX84C9V1",
+            "Contributor": "LCSC",
+            "Supplier Part": "C118574",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "BZX84C9V1",
+            "puuid": "2a819e02584e46aea9f04b619de61270",
+            "uuid": "8f43b4197b3a4a2b92f362691b2e243d"
+          }
+        ],
+        [
+          "1uH",
+          1,
+          "IND-SMD_L6.0-W6.0",
+          "L1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C696487",
+            "Manufacturer": "microgate",
+            "Manufacturer Part": "MPIT6045-1R0M-LF",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "MPIT6045-1R0M-LF",
+            "puuid": "081987c20f3844668e2fec74b142996f",
+            "uuid": "95816f9bd96a41c2b0ae1b2fb35b0c92"
+          }
+        ],
+        [
+          "WSP4447",
+          1,
+          "SO-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "Q1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C719111",
+            "Manufacturer": "Winsok Semicon",
+            "Manufacturer Part": "WSP4447",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "WSP4447",
+            "puuid": "4562040c16044a2993e405db2eededc5",
+            "uuid": "c5bd759d5adc4bb7b4f9698a997139f9"
+          }
+        ],
+        [
+          "100Ω",
+          1,
+          "R0805",
+          "R1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "UniOhm",
+            "Manufacturer Part": "0805W8F1000T5E",
+            "Supplier Part": "C17408",
+            "Resistance (Ohms)": "100",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "0805W8F1000T5E",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "7cae9ab7891e48f11e47d23718393c41"
+          }
+        ]
+      ],
+      "updateTime": 1707098620,
+      "createTime": 1649579203,
+      "histories": [],
+      "created_at": "2022-04-10 18:26:43",
+      "updated_at": "2024-02-05 12:03:40"
+    },
+    {
+      "uuid": "73270a68b09f11ddb5bf32342bfde092",
+      "puuid": "6eda6c4f86483a0fc12831afd85999cb",
+      "title": "PCB_Transient Protection",
+      "filename": "PCB_Transient Protection.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "7bdec8012728462a85919a4d0d033579": 2,
+        "c0a8d5074cd14a40a7baee3704c47035": 1,
+        "77b418c942ed43c4bbe1d0449d6cb40c": 1,
+        "2a819e02584e46aea9f04b619de61270": 1,
+        "081987c20f3844668e2fec74b142996f": 1,
+        "4562040c16044a2993e405db2eededc5": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 1
+      },
+      "BOM": [],
+      "updateTime": 1649583194,
+      "createTime": 1649580137,
+      "histories": [],
+      "created_at": "2022-04-10 18:42:17",
+      "updated_at": "2022-04-10 19:33:14"
+    }
+  ],
+  "sort": [],
+  "title": "Transient Protection- produced",
+  "foldername": "Transient Protection- produced",
+  "schfilename": "Transient Protection- produced.json",
+  "schfilemtime": 1707098620539
+}
